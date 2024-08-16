@@ -553,7 +553,14 @@ const publications = {
       url:
        'https://dev.to/tttn13/connect-to-a-redis-remote-server-3l4j'
       },
-  
+    {
+      id: "",
+      name: "Slack Integration
+      createdAt: "2024-08-17",
+      description: "",
+      url:
+       'https://dev.to/tttn13/slack-integration-4ehb'
+      },
   ],
 };
 
