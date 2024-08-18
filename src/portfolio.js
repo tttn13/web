@@ -553,6 +553,13 @@ const publications = {
       description: "",
       url: "https://dev.to/tttn13/slack-integration-4ehb",
     },
+    {
+      id: "",
+      name: "Deploy full stack React app on Heroku",
+      createdAt: "2023-03-07",
+      description: "",
+      url: "https://dev.to/tttn13/deploy-full-stack-react-app-on-heroku-575p",
+    },
   ],
 };
 
