@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.0a05a807.chunk.css",
-    "main.js": "/web/static/js/main.8d373fc2.chunk.js",
-    "main.js.map": "/web/static/js/main.8d373fc2.chunk.js.map",
-    "runtime-main.js": "/web/static/js/runtime-main.2d94e3d5.js",
-    "runtime-main.js.map": "/web/static/js/runtime-main.2d94e3d5.js.map",
-    "static/js/2.2bbf2f58.chunk.js": "/web/static/js/2.2bbf2f58.chunk.js",
-    "static/js/2.2bbf2f58.chunk.js.map": "/web/static/js/2.2bbf2f58.chunk.js.map",
+    "main.css": "/web/static/css/main.6f41c0e3.chunk.css",
+    "main.js": "/web/static/js/main.32bfa15d.chunk.js",
+    "main.js.map": "/web/static/js/main.32bfa15d.chunk.js.map",
+    "runtime~main.js": "/web/static/js/runtime~main.c75ffd02.js",
+    "runtime~main.js.map": "/web/static/js/runtime~main.c75ffd02.js.map",
+    "static/js/2.2605e68c.chunk.js": "/web/static/js/2.2605e68c.chunk.js",
+    "static/js/2.2605e68c.chunk.js.map": "/web/static/js/2.2605e68c.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.00659d06c562294b05c74f5c26c09649.js": "/web/precache-manifest.00659d06c562294b05c74f5c26c09649.js",
+    "precache-manifest.263168e4925c5919d6ba77aea5e0cdf4.js": "/web/precache-manifest.263168e4925c5919d6ba77aea5e0cdf4.js",
     "service-worker.js": "/web/service-worker.js",
-    "static/css/main.0a05a807.chunk.css.map": "/web/static/css/main.0a05a807.chunk.css.map",
+    "static/css/main.6f41c0e3.chunk.css.map": "/web/static/css/main.6f41c0e3.chunk.css.map",
     "static/media/index.css": "/web/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/web/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/web/static/media/animated_logo.dcd6dee2.svg",
@@ -55,11 +55,5 @@
     "static/media/talksCardBackAlt.svg": "/web/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/web/static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "/web/static/media/ui_ux_design.d6363089.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.2d94e3d5.js",
-    "static/js/2.2bbf2f58.chunk.js",
-    "static/css/main.0a05a807.chunk.css",
-    "static/js/main.8d373fc2.chunk.js"
-  ]
+  }
 }
