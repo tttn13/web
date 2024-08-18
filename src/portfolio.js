@@ -21,14 +21,12 @@ const seo = {
 const greeting = {
   title: "Thi Nguyen",
   logo_name: "ThiNguyen",
-  subTitle: 
-    "A passionate Software Engineer who loves writing clean and DRY code"
-  ,
+  subTitle:
+    "A passionate Software Engineer who loves writing clean and DRY code",
   resumeLink:
     "https://drive.google.com/file/d/1ILSt0BEVui8jQ8wa4eFblWz6aCexU1cm/view?usp=sharing", // Set to empty to hide the button
-    githubProfile: "https://github.com/tttn13",
-  };
-
+  githubProfile: "https://github.com/tttn13",
+};
 
 const socialMediaLinks = [
   /* Your Social Media Link */
@@ -74,7 +72,7 @@ const skills = {
       skills: [
         "⚡ Building full stack applications using various frameworks and technologies, such as React/Node and Blazor/.NET",
         "⚡ Working with SQL and NoSQL databases",
-        "⚡ Implementing integration of third party services and APIs"
+        "⚡ Implementing integration of third party services and APIs",
       ],
       softwareSkills: [
         {
@@ -114,7 +112,6 @@ const skills = {
           skillName: "CI/CD",
           fontAwesomeClassname: "clarity:ci-cd-line",
         },
-        
       ],
     },
     {
@@ -122,7 +119,7 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working with databases",
-        "⚡ Leverage cloud infrastructure to develop and deploy apps to both dev and prod environment"
+        "⚡ Leverage cloud infrastructure to develop and deploy apps to both dev and prod environment",
       ],
       softwareSkills: [
         {
@@ -515,15 +512,14 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description: 
+  description:
     "My projects makes use of various technologies. My best experience is to create web apps and deploy them using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Blogs",
-  description:
-    "I love to write and share with other what I have learned",
+  description: "I love to write and share with other what I have learned",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -532,35 +528,31 @@ const publications = {
     {
       id: "",
       name: "Dockerize full stack React app",
-      createdAt: "2020-03-14",
+      createdAt: "2023-03-14",
       description: "",
-      url:
-        "https://dev.to/tttn13/dockerize-full-stack-react-app-44ej"
-      },
+      url: "https://dev.to/tttn13/dockerize-full-stack-react-app-44ej",
+    },
     {
       id: "",
       name: "Install and deploy a Postgresql database for free",
-      createdAt: "2020-03-16",
+      createdAt: "2023-03-17",
       description: "",
-      url:
-        "https://dev.to/tttn13/install-postgres-on-ubuntu-4b3i"
-      },
+      url: "https://dev.to/tttn13/install-postgres-on-ubuntu-4b3i",
+    },
     {
       id: "",
       name: "Connect to a Redis remote instance",
-      createdAt: "2020-03-09",
+      createdAt: "2023-03-09",
       description: "",
-      url:
-       'https://dev.to/tttn13/connect-to-a-redis-remote-server-3l4j'
-      },
+      url: "https://dev.to/tttn13/connect-to-a-redis-remote-server-3l4j",
+    },
     {
       id: "",
-      name: "Slack Integration
-      createdAt: "2024-08-17",
+      name: "Slack Integration",
+      createdAt: "2024-08-16",
       description: "",
-      url:
-       'https://dev.to/tttn13/slack-integration-4ehb'
-      },
+      url: "https://dev.to/tttn13/slack-integration-4ehb",
+    },
   ],
 };
 
