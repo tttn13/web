@@ -4,7 +4,7 @@ export default class CloudInfraImg extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <img alt="full stack" src={require("../../assests/images/cloud_infrastructure_theme.svg")}/>
+      <img alt="full stack" src={require("../../assests/images/cloud.PNG")} />
     );
   }
 }

@@ -70,9 +70,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building full stack applications using various frameworks and technologies, such as React/Node and Blazor/.NET",
+        "⚡ Building applications using various front end frameworks and back end technologies, such as React/Node and Blazor/.NET",
         "⚡ Working with SQL and NoSQL databases",
-        "⚡ Implementing integration of third party services and APIs",
+        "⚡ Implementing CI/CD and integration with managed services and external APIs",
       ],
       softwareSkills: [
         {
@@ -90,20 +90,14 @@ const skills = {
           // },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           // style: {
           //   backgroundColor: "#000000",
           //   color: "#F7DF1E",
           // },
         },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          // style: {
-          //   color: "#339933",
-          // },
-        },
+
         {
           skillName: "Git",
           fontAwesomeClassname: "mdi:git",
